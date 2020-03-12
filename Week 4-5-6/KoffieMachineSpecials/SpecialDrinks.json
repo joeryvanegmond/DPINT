@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "Spanish Coffee",
+    "Ingredients": [ "Cointreau", "Cognac", "Coffee", "Cream" ],
+    "Price": 2.9
+  },
+  {
+    "Name": "Irish Coffee",
+    "Ingredients": [ "Whiskey", "Coffee", "Cream" ],
+    "Price": 2.4
+  },
+  {
+    "Name": "Italian Coffee",
+    "Ingredients": [ "Amarretto", "Coffee", "Cream" ],
+    "Price": 2.5
+  },
+  {
+    "Name": "Slappe bak",
+    "Ingredients": [ "Cream", "Extra water" ],
+    "Price": 2.5
+  },
+  {
+    "Name": "Avans Coffee",
+    "Ingredients": [ "Student sweat", "Teacher knowledge", "Cream", "Rum" ],
+    "Price": 1.1
+  }
+]

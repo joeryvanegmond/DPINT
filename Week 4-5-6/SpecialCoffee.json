@@ -1,0 +1,26 @@
+{
+  "Irish Coffee": [
+    "Whiskey",
+    "Coffee",
+    "Sugar",
+    "Whippedcream"
+  ],
+  "Spanish Coffee": [
+    "Cointreau",
+    "Cognac",
+    "Coffee",
+    "Sugar",
+    "Whippedcream"
+  ],
+  "Italian Coffee": [
+    "Amaretto",
+    "Coffee",
+    "Sugar",
+    "Whippedcream"
+  ],
+  "Cola": [
+    "Coffee",
+    "Sugar",
+    "Whippedcream"
+  ]
+}
