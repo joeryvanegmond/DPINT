@@ -1,0 +1,60 @@
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\bin\Debug\DPINT_Wk1_Strategies.exe.config
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\bin\Debug\DPINT_Wk1_Strategies.exe
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\bin\Debug\DPINT_Wk1_Strategies.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\bin\Debug\GalaSoft.MvvmLight.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\bin\Debug\System.Windows.Interactivity.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\bin\Debug\GalaSoft.MvvmLight.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\bin\Debug\GalaSoft.MvvmLight.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\obj\Debug\DPINT_Wk1_Strategies.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\obj\Debug\App.g.cs
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\obj\Debug\DPINT_Wk1_Strategies_MarkupCompile.cache
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\obj\Debug\DPINT_Wk1_Strategies_MarkupCompile.lref
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\obj\Debug\App.baml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\obj\Debug\MainWindow.baml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\obj\Debug\DPINT_Wk1_Strategies.g.resources
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\obj\Debug\DPINT_Wk1_Strategies.Properties.Resources.resources
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\obj\Debug\DPINT_Wk1_Strategies.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\obj\Debug\DPINT_Wk1_Strategies.csproj.CopyComplete
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\obj\Debug\DPINT_Wk1_Strategies.exe
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DESGN\DPINT_Wk1_Strategies\obj\Debug\DPINT_Wk1_Strategies.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\bin\Debug\DPINT_Wk1_Strategies.exe.config
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\bin\Debug\DPINT_Wk1_Strategies.exe
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\bin\Debug\DPINT_Wk1_Strategies.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\bin\Debug\GalaSoft.MvvmLight.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\bin\Debug\System.Windows.Interactivity.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\bin\Debug\GalaSoft.MvvmLight.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\bin\Debug\GalaSoft.MvvmLight.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\obj\Debug\DPINT_Wk1_Strategies.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\obj\Debug\App.g.cs
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\obj\Debug\DPINT_Wk1_Strategies_MarkupCompile.cache
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\obj\Debug\DPINT_Wk1_Strategies_MarkupCompile.lref
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\obj\Debug\App.baml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\obj\Debug\MainWindow.baml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\obj\Debug\DPINT_Wk1_Strategies.g.resources
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\obj\Debug\DPINT_Wk1_Strategies.Properties.Resources.resources
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\obj\Debug\DPINT_Wk1_Strategies.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\obj\Debug\DPINT_Wk1_Strategies.csproj.CopyComplete
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\obj\Debug\DPINT_Wk1_Strategies.exe
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 6\DPINT\Week 1\obj\Debug\DPINT_Wk1_Strategies.pdb

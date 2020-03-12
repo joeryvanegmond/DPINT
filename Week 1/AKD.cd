@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DPINT_Wk1_Strategies.ValueConverterViewModel" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIAAQAEIAAAUAABAQEAkAAAAAAAAAJACAAAAAABAAAA=</HashCode>
+      <FileName>ValueConverterViewModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="FromConverter" />
+      <Property Name="ToConverter" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="DPINT_Wk1_Strategies.NumericalNumberConverter">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>NumericalNumberConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DPINT_Wk1_Strategies.HexadecimalNumberConverter">
+    <Position X="9.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>HexadecimalNumberConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DPINT_Wk1_Strategies.BinaryNumberConverter">
+    <Position X="6.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>BinaryNumberConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DPINT_Wk1_Strategies.RomanNumberConverter">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAIAAAAAAAAEgCAA=</HashCode>
+      <FileName>RomanNumberConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DPINT_Wk1_Strategies.NumberConverterFactory">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAEAAAAAAAAA=</HashCode>
+      <FileName>NumberConverterFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="DPINT_Wk1_Strategies.INumberConverter">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>INumberConverter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
